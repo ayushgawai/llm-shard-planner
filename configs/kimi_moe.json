@@ -1,0 +1,1 @@
+{"name": "kimi-style-moe", "vocab_size": 1024, "hidden": 256, "layers": 6, "heads": 8, "kv_heads": 4, "intermediate": 512, "experts": 16, "expert_intermediate": 128, "top_k": 4}

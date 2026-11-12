@@ -1,0 +1,1 @@
+{"name": "llama-7b-scale", "vocab_size": 32000, "hidden": 4096, "layers": 32, "heads": 32, "kv_heads": 32, "intermediate": 11008, "experts": 0, "top_k": 0}

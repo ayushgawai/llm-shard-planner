@@ -1,0 +1,1 @@
+{"name": "glm-style-moe", "vocab_size": 512, "hidden": 128, "layers": 4, "heads": 4, "kv_heads": 2, "intermediate": 256, "experts": 8, "expert_intermediate": 128, "top_k": 2}
